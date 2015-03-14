@@ -7,7 +7,7 @@
 /* Global Styles */
 @font-face {
   font-family: 'notera';
-  src: url('/home-portraits/fonts/Notera_PersonalUseOnly.ttf');
+  src: url('../fonts/Notera_PersonalUseOnly.ttf');
 }
 
 .carousel-inner > .item > img {
